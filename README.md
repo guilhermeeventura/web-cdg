@@ -5,6 +5,19 @@
 # acompanhamento das aulas
 
 
-Links úteis: https://developer.mozilla.org/en-US/
+# LINKS ÚTEIS
+https://picsum.photos/         - gerador de fotos aleatórias <br>
+https://www.svgrepo.com/       - svgs gratuitos 
 
-Geração de imagens: https://picsum.photos/
+
+## TAILWINDCSS 4.1
+https://tailwindcss.com/               -site oficial <br>
+https://flowbite.com/                  - components para o tailwind <br>
+https://www.material-tailwind.com/     - components para o tailwind <br>
+https://heroicons.com/                 - icons tailwind<br>
+https://lucide.dev/                    - icons para download<br>
+
+## BOOTSTRAP 5.3
+https://getbootstrap.com/               -site oficial <br>
+https://icons.getbootstrap.com/         - icons bootstrap<br>
+
